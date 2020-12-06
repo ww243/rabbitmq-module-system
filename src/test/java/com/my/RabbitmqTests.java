@@ -1,3 +1,5 @@
+package com.my;
+
 import com.my.util.RabbitmqUtil;
 import com.rabbitmq.client.*;
 import org.junit.jupiter.api.Test;
